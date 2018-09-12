@@ -14,7 +14,7 @@ import javax.swing.*;
 public class dynamicprogamming1{
 
     public static void main(String[] args) {
-        System.out.println("Anggi Aulia Putri / X-RPL6/ 8");
+        System.out.println("Roihan Farras Setyadi / X RPL 6 / 36");
         System.out.println("=========================================");
         System.out.println("*Penghitung Pemecah Uang*");
         
